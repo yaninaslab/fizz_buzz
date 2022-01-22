@@ -9,8 +9,6 @@ def fizz_buzz(num):
         print(num)
 
 
-num = 15
-fizz_buzz(num)
 numbers = [3, 5, 300, 15, 50, 60, 65, 33, 150, 120, 100, 160, 75, 155]
 
 for num in numbers:
